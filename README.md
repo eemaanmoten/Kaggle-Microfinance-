@@ -1,0 +1,1 @@
+The kaggle contest took place for our financial data analystics course to predict financial stress indicators in microfinance clients. We were asked to test a variety of models for binary classification and I generated a 95% accuracy after 36 submissions using python coding. 
